@@ -7,7 +7,7 @@ package com.taotao.admin.service;
  * @version 1.0
  */
 public interface TestService {
-	
+	// 
 	String findCurrentDate();
-
+	
 }
